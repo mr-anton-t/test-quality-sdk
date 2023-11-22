@@ -80,3 +80,4 @@ yalc.lock
 
 # pack
 ./*.tgz
+/package-lock.json
